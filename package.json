@@ -24,7 +24,10 @@
   ],
   "homepage": "https://github.com/alexfigliolia/chalk-animation",
   "bugs": "https://github.com/alexfigliolia/chalk-animation/issues",
-  "repository": "alexfigliolia/chalk-animation",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexfigliolia/chalk-animation.git"
+  },
   "license": "MIT",
   "author": "Alex Figliolia",
   "exports": {
